@@ -120,7 +120,7 @@ USB-A Female to OG Xbox controller port adapter -
 
 **Transmitter -**
 
-- Download the latest ‘TX_v1.x_merged.bin’ file
+- Download the latest ‘TX_v1.x_merged.bin’ file from the [Releases page](https://github.com/FluxMage-Labs/Duchess-Wireless-to-OGX-Adapters/releases/latest)
 - Plug in a USB cable into your computer
 - Hold down the “B” (Boot) button on the ESP32S3
 - Plug in the other end of the USB cable into the USB-C port of the ESP32S3
@@ -145,7 +145,7 @@ USB-A Female to OG Xbox controller port adapter -
 
 **Receiver -**
 
-- Download the latest ‘RX_v1.x_firmware.uf2’ file
+- Download the latest ‘RX_v1.x_firmware.uf2’ file from the [Releases page](https://github.com/FluxMage-Labs/Duchess-Wireless-to-OGX-Adapters/releases/latest)
 - Plug in a USB cable into your computer
 - Hold down the BOOTSEL button on the Pi Pico 2W
 - Plug in the other end of the USB cable into the USB Micro port of the Pico
